@@ -1,4 +1,4 @@
-````markdown
+
 # 🩺 AI-Powered Medical Chatbot
 
 Welcome to the **AI-Powered Medical Chatbot** application! This project provides an intelligent conversational agent designed to offer general medical information, answer health-related queries, and act as a preliminary resource for common health concerns.
