@@ -1,5 +1,3 @@
-Here is the raw Markdown content for your `README.md` file. You can directly copy and paste this into a file named `README.md` in your project's root directory.
-
 ````markdown
 # 🩺 AI-Powered Medical Chatbot
 
