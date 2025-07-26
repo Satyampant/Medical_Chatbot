@@ -139,7 +139,7 @@ To enable the CI/CD pipeline, you need to configure your GitHub repository:
     * `AWS_ACCESS_KEY_ID`: Your AWS IAM user's access key ID.
     * `AWS_SECRET_ACCESS_KEY`: Your AWS IAM user's secret access key.
     * `AWS_DEFAULT_REGION`: The AWS region where your ECR and EC2 resources are located (e.g., `us-east-1`).
-    * `ECR_REPO`: The full URI of your ECR repository (e.g., `315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot`).
+    * `ECR_REPO`: The full URI of your ECR repository (e.g., `214046907074.dkr.ecr.eu-north-1.amazonaws.com/medicalbot`).
     * `GROQ_API_KEY`: Your Groq API Key (same as in your local `.env` file).
 
 ### Running the Deployment
